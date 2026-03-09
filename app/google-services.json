@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "402613612103",
+    "project_id": "marketing-tech-33bc3",
+    "storage_bucket": "marketing-tech-33bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402613612103:android:bb7104f3b901cb2d288b62",
+        "android_client_info": {
+          "package_name": "com.marketingtech.abckislearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402613612103-8vdjl3a8pbf56amqnqa8mjpjotgnsb5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketingtech.abckislearning",
+            "certificate_hash": "065be206ade86409346d99bf0170628aaf8a11ec"
+          }
+        },
+        {
+          "client_id": "402613612103-p6g0g1qu09i5e3i7ntlgfggmmvidhs2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kv4QeL9c96vaPBjptrOmT3EmoBiaA3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402613612103-p6g0g1qu09i5e3i7ntlgfggmmvidhs2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402613612103:android:6d60b5406d97ec65288b62",
+        "android_client_info": {
+          "package_name": "com.marketingtech.photorecover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402613612103-83ssid5qpdi9bh0jc1175sq5s64mjclg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketingtech.photorecover",
+            "certificate_hash": "50355e9e10b7a057330b57687bf25f23fcb60bab"
+          }
+        },
+        {
+          "client_id": "402613612103-p6g0g1qu09i5e3i7ntlgfggmmvidhs2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kv4QeL9c96vaPBjptrOmT3EmoBiaA3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402613612103-p6g0g1qu09i5e3i7ntlgfggmmvidhs2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402613612103:android:9872b0a703068e8c288b62",
+        "android_client_info": {
+          "package_name": "com.marketingtech.photorecoverpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402613612103-p6g0g1qu09i5e3i7ntlgfggmmvidhs2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kv4QeL9c96vaPBjptrOmT3EmoBiaA3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402613612103-p6g0g1qu09i5e3i7ntlgfggmmvidhs2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
